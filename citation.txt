@@ -1,0 +1,8 @@
+@inproceedings{REPO-145,
+    author = "Katharopoulos, Angelos and Vyas, Apoorv and Pappas, Nikolaos and Fleuret, Fran{\c{c}}ois",
+    booktitle = "International Conference on Machine Learning",
+    organization = "PMLR",
+    pages = "5156--5165",
+    title = "{Transformers Are Rnns: Fast Autoregressive Transformers with Linear Attention}",
+    year = "2020"
+}
